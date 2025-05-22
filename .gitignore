@@ -1,0 +1,12 @@
+__pycache__/
+landcovermlsentinel2venv
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.env
+*.csv
+data/
+.python-version
+*.json
+token_*.txt
+.config/
